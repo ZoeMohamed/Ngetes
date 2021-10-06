@@ -1,4 +1,3 @@
 # Snake Game
 
-Jadi ini cerirtanya program snake sederhana yang dibuat
-buat pake python
+Game sederhana menggunakan Python sebagai tool untuk membuatnya
